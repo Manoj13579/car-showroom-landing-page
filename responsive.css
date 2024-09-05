@@ -1,0 +1,26 @@
+.navbar-nav{
+    text-align: center;
+}
+.carousel-caption h5{
+    font-size: 17px;
+}
+.carousel-caption p{
+    width: 100%;
+    line-height: 1.6;
+    font-size: 12px;
+}
+.card{
+    margin-bottom: 30px;
+}
+.about-text{
+    padding-top: 50px
+}
+.about-second-container {
+    flex-wrap: wrap;
+}
+.about-second-container img {
+    width: 70%;
+}
+.custom-carousel-container {
+    width: 100%;
+}
